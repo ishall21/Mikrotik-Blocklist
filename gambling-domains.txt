@@ -1332,440 +1332,433 @@ x7f5z3.4iypiv4up.com
 1j97oy.02r2eahy2a.com
 bjfer6.7mhg2qt62.com
 357slotsph.vip
-
-
-
-add address=juanhand.net list=BLACKLIST
-add address=brianpoellamanzares.com list=BLACKLIST
-add address=jlplusd.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=superace88.xyz list=BLACKLIST
-add address=pitmaskers185.live list=BLACKLIST
-add address=hydraking247.com list=BLACKLIST
-add address=wcs412.com list=BLACKLIST
-add address=tedkl180.com list=BLACKLIST
-add address=pitmasters247.live list=BLACKLIST
-add address=tedkl182.com list=BLACKLIST
-add address=wga2.live list=BLACKLIST
-add address=redserpent191.vip list=BLACKLIST
-add address=redserpent191.com list=BLACKLIST
-add address=serpentgodz77.com list=BLACKLIST
-add address=777serpent.com list=BLACKLIST
-add address=7rvvoj.xq7a3dm9.com list=BLACKLIST
-add address=hh85dg.7qk35mxa.com list=BLACKLIST
-add address=mbir3c.k3m7xq9.com list=BLACKLIST
-add address=szgymk.r2x9k7em.com list=BLACKLIST
-add address=xzrk67.9x7mf2qa.com list=BLACKLIST
-add address=c19itp.x5k8sz2q.com list=BLACKLIST
-add address=tryjljl66.com list=BLACKLIST
-add address=bluencu777.live list=BLACKLIST
-add address=jiliphil.vip list=BLACKLIST
-add address=1sjl.vip list=BLACKLIST
-add address=2djili4.cc list=BLACKLIST
-add address=b5x9wp.com list=BLACKLIST
-add address=d160yjnjo0phv8.cloudfront.net list=BLACKLIST
-add address=1bvdn9.m7x9qfka.com list=BLACKLIST
-add address=3brrjw.xq7a3dm9.com list=BLACKLIST
-add address=71v8f4.r2x9k7em.com list=BLACKLIST
-add address=a8yu6e.r2x9k7em.com list=BLACKLIST
-add address=b1k5ju.7qk35mxa.com list=BLACKLIST
-add address=d0hjnx.9x7mf2qa.com list=BLACKLIST
-add address=ez82bg.xq7a3dm9.com list=BLACKLIST
-add address=gtb14o.r2x9k7em.com list=BLACKLIST
-add address=jo6lg4.7qk35mxa.com list=BLACKLIST
-add address=mdf681.k7x9msqa.com list=BLACKLIST
-add address=s6h950.9x7mf2qa.com list=BLACKLIST
-add address=sg56o0.xq7a3dm9.com list=BLACKLIST
-add address=t1j2hy.7qk35mxa.com list=BLACKLIST
-add address=t1mare.m7x9qfka.com list=BLACKLIST
-add address=t3c45r.r2x9k7em.com list=BLACKLIST
-add address=tcgmft.7qk35mxa.com list=BLACKLIST
-add address=u3oina.m7x9qfka.com list=BLACKLIST
-add address=vhvzsp.m9a42x7q.com list=BLACKLIST
-add address=wl5ba7.k3m7xq9.com list=BLACKLIST
-add address=zp72hw.m7x9qfka.com list=BLACKLIST
-add address=ffff123.com list=BLACKLIST
-add address=logrohan.com list=BLACKLIST
-add address=2026lucky.win list=BLACKLIST
-add address=bearjl.vip list=BLACKLIST
-add address=tayagm.co comment=HIKVISION disabled=yes list=BLACKLIST
-add address=tayoph05.cc comment=HIKVISION disabled=yes list=BLACKLIST
-add address=tayoph07.cc list=BLACKLIST
-add address=worldcuplucky4.com list=BLACKLIST
-add address=l48o9p.m7x9qfka.com list=BLACKLIST
-add address=x91cj6.7qk35mxa.com list=BLACKLIST
-add address=85t8ui.m7x9qfka.com list=BLACKLIST
-add address=brchsu.m7x9qfka.com list=BLACKLIST
-add address=ewj3rk.9x7mf2qa.com list=BLACKLIST
-add address=gpyabb.m7x9qfka.com list=BLACKLIST
-add address=ittl7j.k7x9msqa.com list=BLACKLIST
-add address=mpsrq7.k7x9msqa.com list=BLACKLIST
-add address=n6jj06.7qk35mxa.com list=BLACKLIST
-add address=oc3svv.9x7mf2qa.com list=BLACKLIST
-add address=arenapaangat247.live list=BLACKLIST
-add address=winabcokk.shop list=BLACKLIST
-add address=worldcuplucky5.com list=BLACKLIST
-add address=d2tf4sc1c6skl2.cloudfront.net list=BLACKLIST
-add address=angsaya1.com list=BLACKLIST
-add address=angsaya.vip list=BLACKLIST
-add address=hb5rhm.x5m2g9zr5.com list=BLACKLIST
-add address=m1jdy1.k2r9x7mz3.com list=BLACKLIST
-add address=5djl28.cc list=BLACKLIST
-add address=wolfkingxrm.vip comment=HIKVISION disabled=yes list=BLACKLIST
-add address=orcaph25.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=elkjl.st list=BLACKLIST
-add address=alicornvip28.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=pandaph11.com list=BLACKLIST
-add address=fbb89.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=tyamba8.com list=BLACKLIST
-add address=f9g4k6.q7xk9m21.com list=BLACKLIST
-add address=n36uku.n9x4k7vp6.com list=BLACKLIST
-add address=g1a7gg.m4g8z1xr9.com list=BLACKLIST
-add address=sealjl.cfd list=BLACKLIST
-add address=wephantttf.vip list=BLACKLIST
-add address=byczon.com list=BLACKLIST
-add address=79jlf.com list=BLACKLIST
-add address=tayoph04 list=BLACKLIST
-add address=peryafun.co list=BLACKLIST
-add address=primeslash192.com list=BLACKLIST
-add address=bet183.vip list=BLACKLIST
-add address=topjljl44.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=310367937.com list=BLACKLIST
-add address=h5.pesoquick.com list=BLACKLIST
-add address=pesobridgeapp.com list=BLACKLIST
-add address=metroeasttech.com list=BLACKLIST
-add address=cashdail.top list=BLACKLIST
-add address=gg.supremecreditloana4e412.com list=BLACKLIST
-add address=0pgef9.m9a42x7q.com list=BLACKLIST
-add address=1cr5jw.k3m7xq9.com list=BLACKLIST
-add address=1h46eb.r2x9k7em.com list=BLACKLIST
-add address=211gqu.9x7mf2qa.com list=BLACKLIST
-add address=5n24c2.9x7mf2qa.com list=BLACKLIST
-add address=7qiuoe.r2x9k7em.com list=BLACKLIST
-add address=8u7tn7.m9a42x7q.com list=BLACKLIST
-add address=9489xe.k3m7xq9.com list=BLACKLIST
-add address=9uz9w4.k7x9msqa.com list=BLACKLIST
-add address=a9g2vi.k3m7xq9.com list=BLACKLIST
-add address=fd1117.xq7a3dm9.com list=BLACKLIST
-add address=ivq7sb.xq7a3dm9.com list=BLACKLIST
-add address=j99g6c.m9a42x7q.com list=BLACKLIST
-add address=la6nlt.9x7mf2qa.com list=BLACKLIST
-add address=lsr3te.7qk35mxa.com list=BLACKLIST
-add address=ltuok1.k3m7xq9.com list=BLACKLIST
-add address=lxsat1.m9a42x7q.com list=BLACKLIST
-add address=ns2j7v.m7x9qfka.com list=BLACKLIST
-add address=pe80dm.m9a42x7q.com list=BLACKLIST
-add address=qj6s5j.k7x9msqa.com list=BLACKLIST
-add address=roft7p.9x7mf2qa.com list=BLACKLIST
-add address=sf7tyj.9x7mf2qa.com list=BLACKLIST
-add address=t195z9.xq7a3dm9.com list=BLACKLIST
-add address=v845iq.k3m7xq9.com list=BLACKLIST
-add address=vnnalh.r2x9k7em.com list=BLACKLIST
-add address=w2oxha.xq7a3dm9.com list=BLACKLIST
-add address=xftz2s.r2x9k7em.com list=BLACKLIST
-add address=xkc25r.k3m7xq9.com list=BLACKLIST
-add address=y3gk2d.k7x9msqa.com list=BLACKLIST
-add address=yc6f7w.9x7mf2qa.com list=BLACKLIST
-add address=yetqvx.k3m7xq9.com list=BLACKLIST
-add address=zypgwf.xq7a3dm9.com list=BLACKLIST
-add address=247bigayan.live list=BLACKLIST
-add address=kisdss11.live list=BLACKLIST
-add address=sr97.ph list=BLACKLIST
-add address=winaaaa.shop comment=HIKVISION disabled=yes list=BLACKLIST
-add address=2026luckyah.com list=BLACKLIST
-add address=2026luckyg5.com list=BLACKLIST
-add address=79jlg.com list=BLACKLIST
-add address=combowin029.com list=BLACKLIST
-add address=phsky.la comment=HIKVISION disabled=yes list=BLACKLIST
-add address=tayagm.live list=BLACKLIST
-add address=tayagm.lol list=BLACKLIST
-add address=tayagm.net comment=HIKVISION disabled=yes list=BLACKLIST
-add address=v3.swcgaming.net list=BLACKLIST
-add address=wolfkingx5j.vip comment=HIKVISION disabled=yes list=BLACKLIST
-add address=triqdx.z8x2sk7r.com disabled=yes list=BLACKLIST
-add address=ultraspot747.vip list=BLACKLIST
-add address=3lb4w6.x7q2gasm9.com list=BLACKLIST
-add address=4qwmhe.x7q2gasm9.com list=BLACKLIST
-add address=60cdac.q7m2dx9a.com list=BLACKLIST
-add address=etgru1.m9x7gk2a.com list=BLACKLIST
-add address=ixo971.m9x7gk2a.com list=BLACKLIST
-add address=m7xe9g.x7q2gasm9.com list=BLACKLIST
-add address=pgowof.m9x7gk2a.com list=BLACKLIST
-add address=pxd3qw.xam7gq92.com list=BLACKLIST
-add address=qiuqiu.q88qbre7x.com list=BLACKLIST
-add address=tpewun.xam7gq92.com list=BLACKLIST
-add address=z38who.m9x7gk2a.com list=BLACKLIST
-add address=36dailyjili.club comment=HIKVISION disabled=yes list=BLACKLIST
-add address=68vipph.vip list=BLACKLIST
-add address=921kdz5k.com list=BLACKLIST
-add address=aa93ph.com list=BLACKLIST
-add address=batakph86.xyz disabled=yes list=BLACKLIST
-add address=paldocrown76.xyz comment=HIKVISION disabled=yes list=BLACKLIST
-add address=ph8c1.com disabled=yes list=BLACKLIST
-add address=phmagic71.xyz list=BLACKLIST
-add address=36j70q.r2x9k7em.com list=BLACKLIST
-add address=4tifgt.7qk35mxa.com list=BLACKLIST
-add address=8m9ciw.r2x9k7em.com list=BLACKLIST
-add address=e30pey.k3m7xq9.com list=BLACKLIST
-add address=qxjm3n.xq7a3dm9.com list=BLACKLIST
-add address=stmcvh.xq7a3dm9.com list=BLACKLIST
-add address=w38f85.r2x9k7em.com list=BLACKLIST
-add address=cockfcbet.live list=BLACKLIST
-add address=olashers192.vip list=BLACKLIST
-add address=theoriginal196.pro list=BLACKLIST
-add address=Wolfjl.betcv3.com list=BLACKLIST
-add address=jili1.org comment=HIKVISION disabled=yes list=BLACKLIST
-add address=jljl4.com.ph comment=HIKVISION disabled=yes list=BLACKLIST
-add address=6hmv084738-ehheemg2c7ccemd8.a02.azurefd.net comment="LBC EXPRESS" \
-    disabled=yes list=BLACKLIST
-add address=d1ilk0eup7vz1f.cloudfront.net list=BLACKLIST
-add address=pintakasi190.live list=BLACKLIST
-add address=v1.swcgaming.net list=BLACKLIST
-add address=wc180.biz list=BLACKLIST
-add address=1tjjaj.9x7mf2qa.com list=BLACKLIST
-add address=3oj0rd.k3m7xq9.com list=BLACKLIST
-add address=7aohs8.k7x9msqa.com list=BLACKLIST
-add address=7s6h7i.9x7mf2qa.com list=BLACKLIST
-add address=8po2ez.7qk35mxa.com list=BLACKLIST
-add address=ayh0nu.k7x9msqa.com list=BLACKLIST
-add address=dfpuu7.7qk35mxa.com list=BLACKLIST
-add address=jtavir.k3m7xq9.com list=BLACKLIST
-add address=kpvmnd.7qk35mxa.com list=BLACKLIST
-add address=x1rqvp.7qk35mxa.com list=BLACKLIST
-add address=v2.swcgamehub.com list=BLACKLIST
-add address=halobonuses.com list=BLACKLIST
-add address=slashers247.live list=BLACKLIST
-add address=1x14fs.k7x9msqa.com list=BLACKLIST
-add address=88spot.r2x9k7em.com list=BLACKLIST
-add address=h01fat.r2x9k7em.com list=BLACKLIST
-add address=lacmsy.m7x9qfka.com list=BLACKLIST
-add address=ndbh4q.k7x9msqa.com list=BLACKLIST
-add address=o800xb.7qk35mxa.com list=BLACKLIST
-add address=oaehk1.r2x9k7em.com list=BLACKLIST
-add address=ro9y2s.9x7mf2qa.com list=BLACKLIST
-add address=rxxdjs.9x7mf2qa.com list=BLACKLIST
-add address=vjtr23.k7x9msqa.com list=BLACKLIST
-add address=wp36t5.7qk35mxa.com list=BLACKLIST
-add address=yczyrx.7qk35mxa.com list=BLACKLIST
-add address=luxewin99.live list=BLACKLIST
-add address=swertekings180.com list=BLACKLIST
-add address=79jla.com list=BLACKLIST
-add address=tayoph08.cc list=BLACKLIST
-add address=tayoph09.cc list=BLACKLIST
-add address=bg22u.zhsw9gm36.com list=BLACKLIST
-add address=koik.jannfarh49.com list=BLACKLIST
-add address=lx892a.m9x7gk2a.com list=BLACKLIST
-add address=oknlm.aqj9kigwz3.com list=BLACKLIST
-add address=v8s2pv.x7q2gasm9.com list=BLACKLIST
-add address=vh181y.xam7gq92.com list=BLACKLIST
-add address=1176phspin.cc comment=HIKVISION disabled=yes list=BLACKLIST
-add address=55300676.com list=BLACKLIST
-add address=combowin4175.com list=BLACKLIST
-add address=jljl6.work list=BLACKLIST
-add address=playk5888.com list=BLACKLIST
-add address=t3v9qm.com list=BLACKLIST
-add address=combowin691.com list=BLACKLIST
-add address=ph-903.rest comment=HIKVISION disabled=yes list=BLACKLIST
-add address=phph777.net comment=HIKVISION disabled=yes list=BLACKLIST
-add address=ph168333.com list=BLACKLIST
-add address=0m8q1y.x7q2gasm9.com list=BLACKLIST
-add address=11z14d.x7q2gasm9.com list=BLACKLIST
-add address=1vvf49.7xmrq9a2.com list=BLACKLIST
-add address=29kbm6.7xmrq9a2.com list=BLACKLIST
-add address=3oyxep.x7q2gasm9.com list=BLACKLIST
-add address=4b7fb8.xam7gq92.com list=BLACKLIST
-add address=5nbtqa.m9x7gk2a.com list=BLACKLIST
-add address=76fhge.xam7gq92.com list=BLACKLIST
-add address=7pq2tx.m9x7gk2a.com list=BLACKLIST
-add address=bl7skf.x7q2gasm9.com list=BLACKLIST
-add address=by1pv4.7xmrq9a2.com list=BLACKLIST
-add address=dtq7ed.x7q2gasm9.com list=BLACKLIST
-add address=evfu6a.7xmrq9a2.com list=BLACKLIST
-add address=futn90.xam7gq92.com list=BLACKLIST
-add address=hb5wm1.xam7gq92.com list=BLACKLIST
-add address=hxwmxt.m9x7gk2a.com list=BLACKLIST
-add address=kxdo8m.m9x7gk2a.com list=BLACKLIST
-add address=lx1iz6.q7m2dx9a.com list=BLACKLIST
-add address=mmgksc.7xmrq9a2.com list=BLACKLIST
-add address=pr6r7u.7xmrq9a2.com list=BLACKLIST
-add address=s5suju.x7q2gasm9.com list=BLACKLIST
-add address=sgxnzj.m9x7gk2a.com list=BLACKLIST
-add address=svaogo.q7m2dx9a.com list=BLACKLIST
-add address=tmqyyk.7xmrq9a2.com list=BLACKLIST
-add address=vlzvlg.7xmrq9a2.com list=BLACKLIST
-add address=w3lumw.x7q2gasm9.com list=BLACKLIST
-add address=w8lhw4.x7q2gasm9.com list=BLACKLIST
-add address=tayoph04.cc comment=HIKVISION disabled=yes list=BLACKLIST
-add address=pinaseazy.live list=BLACKLIST
-add address=10.2.43.0/30 list=MGMT
-add address=worldcupmz.com list=BLACKLIST
-add address=gamexph.com list=BLACKLIST
-add address=sm.plplus.vip list=BLACKLIST
-add address=pisoplus.cc list=BLACKLIST
-add address=p29phgreat.cc comment=HIKVISION disabled=yes list=BLACKLIST
-add address=q12phgreat.cc list=BLACKLIST
-add address=elephgame09.com list=BLACKLIST
-add address=elephgame08.com list=BLACKLIST
-add address=elephgame02.com list=BLACKLIST
-add address=zst88088.tv list=BLACKLIST
-add address=hero789.online list=BLACKLIST
-add address=hero789.baby list=BLACKLIST
-add address=hero789.love list=BLACKLIST
-add address=hero789.biz list=BLACKLIST
-add address=hero789.my comment=HIKVISION disabled=yes list=BLACKLIST
-add address=hero789dh.com list=BLACKLIST
-add address=thea10.jllodi.bet comment=HIKVISION disabled=yes list=BLACKLIST
-add address=789tayal4.xyz comment=HIKVISION disabled=yes list=BLACKLIST
-add address=789tayal5.xyz list=BLACKLIST
-add address=daily-invite-wj2.xyz comment=HIKVISION disabled=yes list=\
-    BLACKLIST
-add address=unlock-welcome-bonus-jilievo-page.shop comment=HIKVISION \
-    disabled=yes list=BLACKLIST
-add address=rrrqpjl.com list=BLACKLIST
-add address=h-y-p-h-9-9-9.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=h-y-p-h-8-8-8.com list=BLACKLIST
-add address=h-y-p-h-7-7-7.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=h-y-p-h-6-6-6.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=h-y-p-h-5-5-5.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=h-y-p-h-4-4-4.com list=BLACKLIST
-add address=h-y-p-h-3-3-3.com list=BLACKLIST
-add address=h-y-p-h-2-2-2.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=h-y-p-h-1-1-1.com list=BLACKLIST
-add address=pc.astrion88.life list=BLACKLIST
-add address=pc.astrion88.vip list=BLACKLIST
-add address=pc.astrion88.info list=BLACKLIST
-add address=pc.rwild413698.co list=BLACKLIST
-add address=pc.ba2026.vip list=BLACKLIST
-add address=pc.regalbet88.vip list=BLACKLIST
-add address=lunaplus888.com list=BLACKLIST
-add address=86002143.com list=BLACKLIST
-add address=peacockjl.diy comment=HIKVISION disabled=yes list=BLACKLIST
-add address=pc.regalbet88.live list=BLACKLIST
-add address=x877.me list=BLACKLIST
-add address=peacockjl.fit comment=HIKVISION disabled=yes list=BLACKLIST
-add address=torvix88.com list=BLACKLIST
-add address=pagasas21.com list=BLACKLIST
-add address=z17vipph.com list=BLACKLIST
-add address=z17starph.cc list=BLACKLIST
-add address=pagasas17.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=pc.rwild589746.co list=BLACKLIST
-add address=m9800.com list=BLACKLIST
-add address=jorva11.com list=BLACKLIST
-add address=t9kqn6z.com list=BLACKLIST
-add address=obsidianisland88.xyz list=BLACKLIST
-add address=365ph811.com list=BLACKLIST
-add address=365ph711.com list=BLACKLIST
-add address=365ph611.com list=BLACKLIST
-add address=365ph511.com list=BLACKLIST
-add address=365ph411.com list=BLACKLIST
-add address=365ph311.com list=BLACKLIST
-add address=365ph211.com list=BLACKLIST
-add address=invite-link-wj2.xyz list=BLACKLIST
-add address=1139vipph.c list=BLACKLIST
-add address=pc.rwild358976.co list=BLACKLIST
-add address=3jjj.org list=BLACKLIST
-add address=3jjj.fun list=BLACKLIST
-add address=d58pisowin.cc list=BLACKLIST
-add address=27247238.com list=BLACKLIST
-add address=u9m3qv.com list=BLACKLIST
-add address=pc.astrion88.fun list=BLACKLIST
-add address=w4lg9p14.com list=BLACKLIST
-add address=wulibear.com list=BLACKLIST
-add address=ull4acff.com list=BLACKLIST
-add address=ftlucky12.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=y847a1.x5k8sz2q.com list=BLACKLIST
-add address=sabonglg1.com list=BLACKLIST
-add address=13phpvip.com list=BLACKLIST
-add address=14phpvip.com list=BLACKLIST
-add address=12phpvip.com list=BLACKLIST
-add address=phpvip-11.com list=BLACKLIST
-add address=pc.regal88bet.info list=BLACKLIST
-add address=v3.swcgames2026.com list=BLACKLIST
-add address=v2.swcgames2026.com list=BLACKLIST
-add address=v1.swcgames2026.com list=BLACKLIST
-add address=phph777.tv comment=HIKVISION disabled=yes list=BLACKLIST
-add address=jinnalkszx.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=jcnlalnzc.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=hubdbauqnzs.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=hucnansna823.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=hnfandnakkzx2.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=oiabdaonzc.com comment=HIKVISION disabled=yes list=BLACKLIST
-add address=jili8227.com list=BLACKLIST
-add address=jili8278.com list=BLACKLIST
-add address=jili8187.com list=BLACKLIST
-add address=jili8211.com list=BLACKLIST
-add address=abcph8.vip list=BLACKLIST
-add address=abc1ph8.xyz list=BLACKLIST
-add address=72hpisowin.com list=BLACKLIST
-add address=48npisowin.com list=BLACKLIST
-add address=pisoeiwin.com list=BLACKLIST
-add address=pisoi1win.com list=BLACKLIST
-add address=hl5n48.grydol.com list=BLACKLIST
-add address=tayagm.top list=BLACKLIST
-add address=tayagm.club list=BLACKLIST
-add address=phgreat366.vip list=BLACKLIST
-add address=9jili7.com list=BLACKLIST
-add address=3jili7.com list=BLACKLIST
-add address=1jili7.com list=BLACKLIST
-add address=66jili7.com list=BLACKLIST
-add address=555jili7.com list=BLACKLIST
-add address=jili72222.com list=BLACKLIST
-add address=41jl55.com list=BLACKLIST
-add address=65one.com list=BLACKLIST
-add address=855ph.com list=BLACKLIST
-add address=ph080.net list=BLACKLIST
-add address=sarik0sg.vip list=BLACKLIST
-add address=vegasph1.com list=BLACKLIST
-add address=worldcuplucky9.co list=BLACKLIST
-add address=93phph.com list=BLACKLIST
-add address=v7k2p8qx.com list=BLACKLIST
-add address=chatjl.vip list=BLACKLIST
-add address=wephanttyb.vip list=BLACKLIST
-add address=79jlss.com list=BLACKLIST
-add address=p6v1z4m.com list=BLACKLIST
-add address=laro77vip1.cc list=BLACKLIST
-add address=paramanalo.co list=BLACKLIST
-add address=crownqueen.site list=BLACKLIST
-add address=jdflas3648.xyz list=BLACKLIST
-add address=eliteprime8888.xyz list=BLACKLIST
-add address=starcoin88.vip list=BLACKLIST
-add address=yumeyume.vip list=BLACKLIST
-add address=92pk.bet list=BLACKLIST
-add address=92pk.win list=BLACKLIST
-add address=92pk.org list=BLACKLIST
-add address=xjfi3ov2s.com list=BLACKLIST
-add address=ju39vu6.com list=BLACKLIST
-add address=182cwzz.com list=BLACKLIST
-add address=sqv6zm7.com list=BLACKLIST
-add address=t8cbd82.com list=BLACKLIST
-add address=dwtapp.com list=BLACKLIST
-add address=17894077.com list=BLACKLIST
-add address=f4m1.kuwaitmedicine.com list=BLACKLIST
-add address=qs9jf.15266047.com list=BLACKLIST
-add address=78812399.com list=BLACKLIST
-add address=357phwin.vip list=BLACKLIST
-add address=n4b6q1.y5b3f7k.com list=BLACKLIST
-add address=m8z45x7q.com list=BLACKLIST
-add address=7xmrq9a2.com list=BLACKLIST
-add address=58866617.com list=BLACKLIST
-add address=52887899.com list=BLACKLIST
-add address=ph123889.com list=BLACKLIST
-add address=aces4n4super.com list=BLACKLIST
-add address=phttt77.com list=BLACKLIST
-add address=phttt22.com list=BLACKLIST
-add address=mercedesph63.com list=BLACKLIST
-add address=mercedesuqa.com list=BLACKLIST
-add address=6smercedes.com list=BLACKLIST
-add address=mercedeslaz.win list=BLACKLIST
-add address=ph8m77.com list=BLACKLIST
-add address=f6g7gt.com list=BLACKLIST
-add address=jl3vip.jl3.pw list=BLACKLIST
-add address=phttt11.com list=BLACKLIST
-add address=zu289vu3.com list=BLACKLIST
-add address=qwa72zx.com list=BLACKLIST
-add address=b9k1c.com list=BLACKLIST
-add address=1139jollyph.cc list=BLACKLIST
-add address=fkop5.com list=BLACKLIST
-add address=swerte99.com.co
+juanhand.net
+brianpoellamanzares.com
+jlplusd.com
+superace88.xyz
+pitmaskers185.live
+hydraking247.com
+wcs412.com
+tedkl180.com
+pitmasters247.live
+tedkl182.com
+wga2.live
+redserpent191.vip
+redserpent191.com
+serpentgodz77.com
+777serpent.com
+7rvvoj.xq7a3dm9.com
+hh85dg.7qk35mxa.com
+mbir3c.k3m7xq9.com
+szgymk.r2x9k7em.com
+xzrk67.9x7mf2qa.com
+c19itp.x5k8sz2q.com
+tryjljl66.com
+bluencu777.live
+jiliphil.vip
+1sjl.vip
+2djili4.cc
+b5x9wp.com
+d160yjnjo0phv8.cloudfront.net
+1bvdn9.m7x9qfka.com
+3brrjw.xq7a3dm9.com
+71v8f4.r2x9k7em.com
+a8yu6e.r2x9k7em.com
+b1k5ju.7qk35mxa.com
+d0hjnx.9x7mf2qa.com
+ez82bg.xq7a3dm9.com
+gtb14o.r2x9k7em.com
+jo6lg4.7qk35mxa.com
+mdf681.k7x9msqa.com
+s6h950.9x7mf2qa.com
+sg56o0.xq7a3dm9.com
+t1j2hy.7qk35mxa.com
+t1mare.m7x9qfka.com
+t3c45r.r2x9k7em.com
+tcgmft.7qk35mxa.com
+u3oina.m7x9qfka.com
+vhvzsp.m9a42x7q.com
+wl5ba7.k3m7xq9.com
+zp72hw.m7x9qfka.com
+ffff123.com
+logrohan.com
+2026lucky.win
+bearjl.vip
+tayagm.co
+tayoph05.cc
+tayoph07.cc
+worldcuplucky4.com
+l48o9p.m7x9qfka.com
+x91cj6.7qk35mxa.com
+85t8ui.m7x9qfka.com
+brchsu.m7x9qfka.com
+ewj3rk.9x7mf2qa.com
+gpyabb.m7x9qfka.com
+ittl7j.k7x9msqa.com
+mpsrq7.k7x9msqa.com
+n6jj06.7qk35mxa.com
+oc3svv.9x7mf2qa.com
+arenapaangat247.live
+winabcokk.shop
+worldcuplucky5.com
+d2tf4sc1c6skl2.cloudfront.net
+angsaya1.com
+angsaya.vip
+hb5rhm.x5m2g9zr5.com
+m1jdy1.k2r9x7mz3.com
+5djl28.cc
+wolfkingxrm.vip
+orcaph25.com
+elkjl.st
+alicornvip28.com
+pandaph11.com
+fbb89.com
+tyamba8.com
+f9g4k6.q7xk9m21.com
+n36uku.n9x4k7vp6.com
+g1a7gg.m4g8z1xr9.com
+sealjl.cfd
+wephantttf.vip
+byczon.com
+79jlf.com
+tayoph04
+peryafun.co
+primeslash192.com
+bet183.vip
+topjljl44.com
+310367937.com 
+h5.pesoquick.com 
+pesobridgeapp.com 
+metroeasttech.com 
+cashdail.top 
+gg.supremecreditloana4e412.com
+0pgef9.m9a42x7q.com 
+1cr5jw.k3m7xq9.com 
+1h46eb.r2x9k7em.com 
+211gqu.9x7mf2qa.com 
+5n24c2.9x7mf2qa.com 
+7qiuoe.r2x9k7em.com 
+8u7tn7.m9a42x7q.com 
+9489xe.k3m7xq9.com 
+9uz9w4.k7x9msqa.com 
+a9g2vi.k3m7xq9.com 
+fd1117.xq7a3dm9.com 
+ivq7sb.xq7a3dm9.com 
+j99g6c.m9a42x7q.com 
+la6nlt.9x7mf2qa.com
+lsr3te.7qk35mxa.com 
+ltuok1.k3m7xq9.com 
+lxsat1.m9a42x7q.com 
+ns2j7v.m7x9qfka.com 
+pe80dm.m9a42x7q.com 
+qj6s5j.k7x9msqa.com 
+roft7p.9x7mf2qa.com 
+sf7tyj.9x7mf2qa.com 
+t195z9.xq7a3dm9.com 
+v845iq.k3m7xq9.com
+vnnalh.r2x9k7em.com 
+w2oxha.xq7a3dm9.com 
+xftz2s.r2x9k7em.com 
+xkc25r.k3m7xq9.com 
+y3gk2d.k7x9msqa.com 
+yc6f7w.9x7mf2qa.com 
+yetqvx.k3m7xq9.com 
+zypgwf.xq7a3dm9.com 
+247bigayan.live 
+kisdss11.live 
+sr97.ph 
+winaaaa.shop 
+2026luckyah.com 
+2026luckyg5.com 
+79jlg.com 
+combowin029.com 
+phsky.la 
+tayagm.live 
+tayagm.lol 
+tayagm.net 
+v3.swcgaming.net 
+wolfkingx5j.vip 
+triqdx.z8x2sk7r.com 
+ultraspot747.vip
+3lb4w6.x7q2gasm9.com
+4qwmhe.x7q2gasm9.com 
+60cdac.q7m2dx9a.com 
+etgru1.m9x7gk2a.com 
+ixo971.m9x7gk2a.com 
+m7xe9g.x7q2gasm9.com
+pgowof.m9x7gk2a.com
+pxd3qw.xam7gq92.com
+qiuqiu.q88qbre7x.com 
+tpewun.xam7gq92.com 
+z38who.m9x7gk2a.com 
+36dailyjili.club 
+68vipph.vip 
+921kdz5k.com 
+aa93ph.com 
+batakph86.xyz 
+paldocrown76.xyz 
+ph8c1.com 
+phmagic71.xyz 
+36j70q.r2x9k7em.com 
+4tifgt.7qk35mxa.com 
+8m9ciw.r2x9k7em.com 
+e30pey.k3m7xq9.com 
+qxjm3n.xq7a3dm9.com 
+stmcvh.xq7a3dm9.com 
+w38f85.r2x9k7em.com 
+cockfcbet.live
+olashers192.vip 
+theoriginal196.pro 
+Wolfjl.betcv3.com 
+jili1.org 
+jljl4.com.ph
+6hmv084738-ehheemg2c7ccemd8.a02.azurefd.net
+d1ilk0eup7vz1f.cloudfront.net
+pintakasi190.live 
+v1.swcgaming.net 
+wc180.biz 
+1tjjaj.9x7mf2qa.com
+3oj0rd.k3m7xq9.com 
+7aohs8.k7x9msqa.com 
+7s6h7i.9x7mf2qa.com 
+8po2ez.7qk35mxa.com 
+ayh0nu.k7x9msqa.com 
+dfpuu7.7qk35mxa.com 
+jtavir.k3m7xq9.com
+kpvmnd.7qk35mxa.com
+x1rqvp.7qk35mxa.com 
+v2.swcgamehub.com 
+halobonuses.com 
+slashers247.live
+1x14fs.k7x9msqa.com 
+88spot.r2x9k7em.com 
+h01fat.r2x9k7em.com 
+lacmsy.m7x9qfka.com 
+ndbh4q.k7x9msqa.com
+o800xb.7qk35mxa.com 
+oaehk1.r2x9k7em.com 
+ro9y2s.9x7mf2qa.com 
+rxxdjs.9x7mf2qa.com 
+vjtr23.k7x9msqa.com 
+wp36t5.7qk35mxa.com 
+yczyrx.7qk35mxa.com 
+luxewin99.live 
+swertekings180.com 
+79jla.com 
+tayoph08.cc 
+tayoph09.cc 
+bg22u.zhsw9gm36.com 
+koik.jannfarh49.com 
+lx892a.m9x7gk2a.com 
+oknlm.aqj9kigwz3.com
+v8s2pv.x7q2gasm9.com 
+vh181y.xam7gq92.com 
+1176phspin.cc 
+55300676.com 
+combowin4175.com
+jljl6.work 
+playk5888.com 
+t3v9qm.com 
+combowin691.com 
+ph-903.rest 
+phph777.net 
+ph168333.com 
+0m8q1y.x7q2gasm9.com 
+11z14d.x7q2gasm9.com 
+1vvf49.7xmrq9a2.com 
+29kbm6.7xmrq9a2.com
+3oyxep.x7q2gasm9.com
+4b7fb8.xam7gq92.com 
+5nbtqa.m9x7gk2a.com 
+76fhge.xam7gq92.com
+7pq2tx.m9x7gk2a.com 
+bl7skf.x7q2gasm9.com 
+by1pv4.7xmrq9a2.com 
+dtq7ed.x7q2gasm9.com 
+evfu6a.7xmrq9a2.com 
+futn90.xam7gq92.com 
+hb5wm1.xam7gq92.com 
+hxwmxt.m9x7gk2a.com 
+kxdo8m.m9x7gk2a.com 
+lx1iz6.q7m2dx9a.com 
+mmgksc.7xmrq9a2.com 
+pr6r7u.7xmrq9a2.com 
+s5suju.x7q2gasm9.com 
+sgxnzj.m9x7gk2a.com 
+svaogo.q7m2dx9a.com
+tmqyyk.7xmrq9a2.com
+vlzvlg.7xmrq9a2.com
+w3lumw.x7q2gasm9.com
+w8lhw4.x7q2gasm9.com
+tayoph04.cc 
+pinaseazy.live
+worldcupmz.com
+gamexph.com
+sm.plplus.vip 
+pisoplus.cc 
+p29phgreat.cc 
+q12phgreat.cc 
+elephgame09.com 
+elephgame08.com 
+elephgame02.com 
+zst88088.tv
+hero789.online 
+hero789.baby 
+hero789.love 
+hero789.biz 
+hero789.my 
+hero789dh.com 
+thea10.jllodi.bet 
+789tayal4.xyz 
+789tayal5.xyz 
+daily-invite-wj2.xyz 
+unlock-welcome-bonus-jilievo-page.shop 
+rrrqpjl.com 
+h-y-p-h-9-9-9.com 
+h-y-p-h-8-8-8.com 
+h-y-p-h-7-7-7.com
+h-y-p-h-6-6-6.com 
+h-y-p-h-5-5-5.com 
+h-y-p-h-4-4-4.com 
+h-y-p-h-3-3-3.com 
+h-y-p-h-2-2-2.com 
+h-y-p-h-1-1-1.com 
+pc.astrion88.life 
+pc.astrion88.vip 
+pc.astrion88.info
+pc.rwild413698.co 
+pc.ba2026.vip 
+pc.regalbet88.vip 
+lunaplus888.com 
+86002143.com 
+peacockjl.diy 
+pc.regalbet88.live
+x877.me 
+peacockjl.fit 
+torvix88.com
+pagasas21.com
+z17vipph.com 
+z17starph.cc 
+pagasas17.com
+pc.rwild589746.co
+m9800.com 
+jorva11.com
+t9kqn6z.com 
+obsidianisland88.xyz 
+365ph811.com 
+365ph711.com 
+365ph611.com 
+365ph511.com 
+365ph411.com 
+365ph311.com 
+365ph211.com 
+invite-link-wj2.xyz
+1139vipph.c 
+pc.rwild358976.co 
+3jjj.org 
+3jjj.fun 
+d58pisowin.cc 
+27247238.com
+u9m3qv.com 
+pc.astrion88.fun 
+w4lg9p14.com 
+wulibear.com 
+ull4acff.com 
+ftlucky12.com 
+address=y847a1.x5k8sz2q.com 
+address=sabonglg1.com 
+13phpvip.com 
+14phpvip.com 
+12phpvip.com 
+phpvip-11.com 
+pc.regal88bet.info 
+v3.swcgames2026.com 
+v2.swcgames2026.com 
+v1.swcgames2026.com 
+phph777.tv comment=HIKVISION disabled=yes 
+jinnalkszx.com comment=HIKVISION disabled=yes 
+jcnlalnzc.com comment=HIKVISION disabled=yes 
+hubdbauqnzs.com comment=HIKVISION disabled=yes 
+hucnansna823.com comment=HIKVISION disabled=yes 
+hnfandnakkzx2.com comment=HIKVISION disabled=yes 
+oiabdaonzc.com comment=HIKVISION disabled=yes 
+jili8227.com 
+jili8278.com 
+jili8187.com 
+jili8211.com 
+abcph8.vip 
+abc1ph8.xyz 
+72hpisowin.com 
+48npisowin.com 
+pisoeiwin.com 
+pisoi1win.com 
+hl5n48.grydol.com 
+tayagm.top 
+tayagm.club 
+phgreat366.vip 
+9jili7.com 
+3jili7.com 
+1jili7.com 
+66jili7.com 
+555jili7.com 
+jili72222.com 
+41jl55.com 
+65one.com 
+855ph.com 
+ph080.net 
+sarik0sg.vip 
+vegasph1.com 
+worldcuplucky9.co 
+93phph.com 
+v7k2p8qx.com 
+chatjl.vip 
+wephanttyb.vip 
+79jlss.com 
+p6v1z4m.com 
+laro77vip1.cc 
+paramanalo.co 
+crownqueen.site 
+jdflas3648.xyz 
+eliteprime8888.xyz 
+starcoin88.vip 
+yumeyume.vip 
+92pk.bet 
+92pk.win 
+92pk.org 
+xjfi3ov2s.com 
+ju39vu6.com 
+182cwzz.com 
+sqv6zm7.com 
+t8cbd82.com 
+dwtapp.com 
+17894077.com 
+f4m1.kuwaitmedicine.com 
+qs9jf.15266047.com 
+78812399.com 
+357phwin.vip 
+n4b6q1.y5b3f7k.com 
+m8z45x7q.com 
+7xmrq9a2.com 
+58866617.com 
+52887899.com 
+ph123889.com 
+aces4n4super.com 
+phttt77.com 
+phttt22.com 
+mercedesph63.com 
+mercedesuqa.com 
+6smercedes.com 
+mercedeslaz.win 
+ph8m77.com 
+f6g7gt.com 
+jl3vip.jl3.pw 
+phttt11.com 
+zu289vu3.com 
+qwa72zx.com 
+b9k1c.com 
+1139jollyph.cc 
+fkop5.com 
+swerte99.com.co
 wj2-performance-cultivate.me
 bryqva48.shop
 12997564.com
